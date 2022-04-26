@@ -1,0 +1,16 @@
+{
+    "LOCKED_ALERT-8": {
+        "date": "2021-04-28 11:18:21",
+        "desc": "::1 Try to steal ::1 cookies",
+        "ip": "::1",
+        "url": "\/work\/projects\/owf\/public\/owf\/owf_login\/",
+        "type": "Cookie stealing"
+    },
+    "LOCKED_ALERT-6": {
+        "date": "2021-04-28 11:18:20",
+        "desc": "::1 Try to steal ::1 cookies",
+        "ip": "::1",
+        "url": "\/work\/projects\/owf\/public\/owf\/owf_login\/",
+        "type": "Cookie stealing"
+    }
+}

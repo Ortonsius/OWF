@@ -1,0 +1,57 @@
+{
+    "key": "qazwsxedcrfvtgbyhnujmik,ol.1234567890-=!@#$%^&*()_+`~QWERTYUIOPASDFGHJKL:ZXCVBNM<>;\/?[]\\{}|'\" ",
+    "iv": "ANJAYS SEKALE BP",
+    "Auth": [
+        [
+            "::1",
+            "mantap",
+            "2jf9si83aj8302jt",
+            "15709845720983470894505283052342",
+            true,
+            "tes@gmail.com"
+        ]
+    ],
+    "region_block": [
+        "Hokkaido",
+        "Zhengzhou",
+        "Berlin"
+    ],
+    "country_block": [
+        "Japan",
+        "China"
+    ],
+    "city_block": [
+        "Lampung"
+    ],
+    "is_prank": true,
+    "prank_link": [
+        "https:\/\/www.youtube.com\/watch?v=UcRtFYAz2Yo",
+        "https:\/\/www.youtube.com\/watch?v=A_nkuDdF53k",
+        "https:\/\/www.youtube.com\/watch?v=NUYvbT6vTPs",
+        "https:\/\/www.youtube.com\/watch?v=ey1jyaUYT4s",
+        "https:\/\/www.youtube.com\/watch?v=IJ4z2llLfKU"
+    ],
+    "block_ip": [
+        "111.111.111.111"
+    ],
+    "exreq_sec": 10,
+    "exreq_attempt_limit": 50,
+    "exreq_unblock_sec": 3600,
+    "block_user_agent": [
+        "python",
+        "java",
+        "lib",
+        "perl",
+        "curl"
+    ],
+    "http_data_banned": [
+        "alamak"
+    ],
+    "PHP_MalCode": [
+        "system",
+        "exec",
+        "shell_exec",
+        "passthru",
+        "socket"
+    ]
+}
